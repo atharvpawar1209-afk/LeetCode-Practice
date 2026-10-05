@@ -1,1 +1,16 @@
 # LeetCode-Practice
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/atharvpawar1209-afk/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/atharvpawar1209-afk/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/atharvpawar1209-afk/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
+<!---LeetCode Topics End-->
